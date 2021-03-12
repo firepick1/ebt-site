@@ -1,4 +1,0 @@
-#!/bin/bash
-
-DIR=`pwd`
-echo `basename $DIR`
