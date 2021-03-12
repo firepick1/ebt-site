@@ -1,5 +1,5 @@
 ---
-title: Welcome to EBT-Site
+title: Welcome to Temp01
 description: Wiki welcome page
 img: amanda-flavell-9XSLoMlVhYU-unsplash.png
 img-alt: A picture of the Buddha
